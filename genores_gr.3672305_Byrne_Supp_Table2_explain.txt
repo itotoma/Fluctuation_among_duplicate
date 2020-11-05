@@ -1,0 +1,15 @@
+genores_gr.3672305_Byrne_Supp_Table2
+
+This is downloaded from
+Kevin P. Byrne and Kenneth H. Wolfe1., Genome Res. 2005 Oct; 15(10): 1456–1461. doi: 10.1101/gr.3672305
+
+Notes								
+All the Wong and Kellis ohnologs are included in the Byrne data. The Dietrich putative ohnolog list included 21 adjacent genes in tandem repeats which are not shown here. YGOB specific ohnologs are listed here and separately in Table 1.								
+								
+y	YGOB specific ohnologs.							
+n	There are three Dietrich specific putative ohnologs that we did not feel had sufficient syntenic support to be included as ohnologs in YGOB.							
++	Although not reported in Wong, Kellis or Dietrich these three ohnologs were reported in Wolfe & Shields 1997 or Seoighe & Wolfe 1999.							
+w	Wong identified these four ohnologs but with one of the genes having either a different name in this annotation or being a different gene from the same tandem repeat.							
+k	Kellis (along with Wong and Dietrich) identified this ohnolog by the gene YDR474C, which SGD merged in 2003, with the gene named YDR475C, which is used this annotation.							
+d	Dietrich identified these six ohnologs but with one of the genes having either a different name in this annotation or being a different gene from the same tandem repeat.							
+t	Kellis identified these nine ohnologs as 1:2 (and in one case 2:3) tandem ohnologs, but in YGOB each gene can feature in only one ohnolog pairing.							
